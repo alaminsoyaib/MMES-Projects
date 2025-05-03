@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrispmkii",
+    "sketch": "Temperature\\Temperature.ino",
+    "port": "COM7"
+}
