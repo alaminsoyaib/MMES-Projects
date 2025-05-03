@@ -1,6 +1,0 @@
-{
-  "board": "arduino:avr:uno",
-  "programmer": "avrispmkii",
-  "sketch": "UltraSonic\\UltraSonic.ino",
-  "port": "COM7"
-}
